@@ -1,0 +1,78 @@
+player_name,opponent,stat_type,line,sportsbook
+artzin,Evil Geniuses MAP 3,map_3_kills,14.0,Prizepicks
+aspas,Evil Geniuses MAP 3,map_3_kills,18.0,Prizepicks
+cortezia,Evil Geniuses MAP 3,map_3_kills,15.0,Prizepicks
+derrek,MIBR MAP 3,map_3_kills,14.0,Prizepicks
+nature,MIBR MAP 3,map_3_kills,12.5,Prizepicks
+supamen,MIBR MAP 3,map_3_kills,14.5,Prizepicks
+verno,Evil Geniuses MAP 3,map_3_kills,14.5,Prizepicks
+xenom,Evil Geniuses MAP 3,map_3_kills,14.5,Prizepicks
+yay,MIBR MAP 3,map_3_kills,16.5,Prizepicks
+avez,Team Liquid MAPS 1-3,maps_1-3_kills,45.5,Prizepicks
+beyn,Paper Rex MAPS 1-3,maps_1-3_kills,42.0,Prizepicks
+d4v41,DRX MAPS 1-3,maps_1-3_kills,42.5,Prizepicks
+elite,Team Liquid MAPS 1-3,maps_1-3_kills,43.5,Prizepicks
+estrella,Paper Rex MAPS 1-3,maps_1-3_kills,38.5,Prizepicks
+f0rsaken,DRX MAPS 1-3,maps_1-3_kills,49.0,Prizepicks
+free1ng,Paper Rex MAPS 1-3,maps_1-3_kills,46.5,Prizepicks
+hyunmin,Paper Rex MAPS 1-3,maps_1-3_kills,54.5,Prizepicks
+jinggg,DRX MAPS 1-3,maps_1-3_kills,46.5,Prizepicks
+kamo,Karmine Corp MAPS 1-3,maps_1-3_kills,50.5,Prizepicks
+keiko,Karmine Corp MAPS 1-3,maps_1-3_kills,49.5,Prizepicks
+mako,Paper Rex MAPS 1-3,maps_1-3_kills,48.5,Prizepicks
+marteen,Team Liquid MAPS 1-3,maps_1-3_kills,51.5,Prizepicks
+mindfreak,DRX MAPS 1-3,maps_1-3_kills,39.0,Prizepicks
+nats,Karmine Corp MAPS 1-3,maps_1-3_kills,46.5,Prizepicks
+patitek,Karmine Corp MAPS 1-3,maps_1-3_kills,42.0,Prizepicks
+saadhak,Team Liquid MAPS 1-3,maps_1-3_kills,36.5,Prizepicks
+serial,Karmine Corp MAPS 1-3,maps_1-3_kills,42.0,Prizepicks
+something,DRX MAPS 1-3,maps_1-3_kills,46.5,Prizepicks
+suygetsu,Team Liquid MAPS 1-3,maps_1-3_kills,45.0,Prizepicks
+elite + marteen + avez,Team Liquid MAPS 1-3,maps_1-3_kills_(combo),140.5,Prizepicks
+f0rsaken + jinggg + something,DRX MAPS 1-3,maps_1-3_kills_(combo),142.0,Prizepicks
+free1ng + hyunmin,Paper Rex MAPS 1-3,maps_1-3_kills_(combo),101.0,Prizepicks
+hyunmin + estrella + free1ng,Paper Rex MAPS 1-3,maps_1-3_kills_(combo),139.5,Prizepicks
+keiko + kamo + nats,Karmine Corp MAPS 1-3,maps_1-3_kills_(combo),146.5,Prizepicks
+marteen + avez,Team Liquid MAPS 1-3,maps_1-3_kills_(combo),97.0,Prizepicks
+nats + kamo,Karmine Corp MAPS 1-3,maps_1-3_kills_(combo),97.0,Prizepicks
+something + jinggg,DRX MAPS 1-3,maps_1-3_kills_(combo),93.0,Prizepicks
+avez,,maps_1_2_3_kills,45.5,Underdog
+avez,,maps_1_2_3_kills,45.5,Underdog
+beyn,,maps_1_2_3_kills,41.0,Underdog
+beyn,,maps_1_2_3_kills,41.0,Underdog
+d4v41,,maps_1_2_3_kills,42.5,Underdog
+d4v41,,maps_1_2_3_kills,42.5,Underdog
+elite,,maps_1_2_3_kills,43.5,Underdog
+elite,,maps_1_2_3_kills,43.5,Underdog
+estrella,,maps_1_2_3_kills,38.5,Underdog
+estrella,,maps_1_2_3_kills,38.5,Underdog
+f0rsaken,,maps_1_2_3_kills,48.5,Underdog
+f0rsaken,,maps_1_2_3_kills,48.5,Underdog
+free1ng,,maps_1_2_3_kills,46.5,Underdog
+free1ng,,maps_1_2_3_kills,46.5,Underdog
+hyunmin,,maps_1_2_3_kills,54.5,Underdog
+hyunmin,,maps_1_2_3_kills,54.5,Underdog
+jinggg,,maps_1_2_3_kills,46.5,Underdog
+jinggg,,maps_1_2_3_kills,46.5,Underdog
+kamo,,maps_1_2_3_kills,50.5,Underdog
+kamo,,maps_1_2_3_kills,50.5,Underdog
+keiko,,maps_1_2_3_kills,49.5,Underdog
+keiko,,maps_1_2_3_kills,49.5,Underdog
+mako,,maps_1_2_3_kills,48.5,Underdog
+mako,,maps_1_2_3_kills,48.5,Underdog
+marteen,,maps_1_2_3_kills,51.5,Underdog
+marteen,,maps_1_2_3_kills,51.5,Underdog
+mindfreak,,maps_1_2_3_kills,38.5,Underdog
+mindfreak,,maps_1_2_3_kills,38.5,Underdog
+nats,,maps_1_2_3_kills,46.5,Underdog
+nats,,maps_1_2_3_kills,46.5,Underdog
+patitek,,maps_1_2_3_kills,41.5,Underdog
+patitek,,maps_1_2_3_kills,41.5,Underdog
+saadhak,,maps_1_2_3_kills,36.5,Underdog
+saadhak,,maps_1_2_3_kills,36.5,Underdog
+serial,,maps_1_2_3_kills,41.5,Underdog
+serial,,maps_1_2_3_kills,41.5,Underdog
+something,,maps_1_2_3_kills,46.5,Underdog
+something,,maps_1_2_3_kills,46.5,Underdog
+suygetsu,,maps_1_2_3_kills,44.5,Underdog
+suygetsu,,maps_1_2_3_kills,44.5,Underdog
